@@ -50,3 +50,6 @@ I then confirmed my user was in the correct OU
 
 After this I created another user and practiced resetting passwords/unlocking accounts 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/4484c60dbc326f29ce7d7c74c4b4c06ef895d082/Screenshot%202026-11-14%20200427.png)
+
+I then made my first group called "IT Workers"
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/6dda617722b74efa1283d6bf2015068389bbde87/Screenshot%202026-11-14%20200535.png)
