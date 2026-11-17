@@ -84,3 +84,7 @@ Confirmed that Tom Brady was now in the "users" OU in branch 2
 Next I gave Tom Smith a description and confirmed it went through
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/7f9b6c05a61f288f1ef5ef5fbc88fd401cccc639/Screenshot%202026-11-14%20202755.png)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/7f9b6c05a61f288f1ef5ef5fbc88fd401cccc639/Screenshot%202026-11-14%20202806.png)
+
+I then added his phone number and his manager
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/770416073614004b969940faa5aef74e028e918f/Screenshot%202026-11-14%20202848.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/770416073614004b969940faa5aef74e028e918f/Screenshot%202026-11-14%20203101.png)
