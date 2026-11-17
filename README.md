@@ -89,3 +89,8 @@ I then added his phone number and his manager
 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/770416073614004b969940faa5aef74e028e918f/Screenshot%202026-11-14%20202848.png)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/770416073614004b969940faa5aef74e028e918f/Screenshot%202026-11-14%20203101.png)
+
+I then create a new group called "HR" and added user "Logan Heck" to it
+
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/745b76a323be9f5d8ca27d5a8dd73628f1ed2430/Screenshot%202026-11-14%20203918.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/745b76a323be9f5d8ca27d5a8dd73628f1ed2430/Screenshot%202026-11-14%20204147.png)
