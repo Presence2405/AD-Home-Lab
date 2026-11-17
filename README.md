@@ -47,3 +47,6 @@ I gave my user his temp password and set it so he must change it on next logon
 
 I then confirmed my user was in the correct OU
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/24b77c877fb714116744d85a0341393cc4401b16/Screenshot%202026-11-14%20195824.png)
+
+After this I created another user and practiced resetting passwords/unlocking accounts 
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/4484c60dbc326f29ce7d7c74c4b4c06ef895d082/Screenshot%202026-11-14%20200427.png)
