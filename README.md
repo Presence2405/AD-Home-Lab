@@ -137,7 +137,7 @@ After this I was finally able to join my domain and ping my DC
 Now that I joined this VM to the DC I went back to my DC VM and moved the new computer from the default "computer" group to the "computer" group in branch one
 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/44d5712dadcfc3009fbd251442aaced8a1925bbf/Screenshot%202026-11-14%20215914.png)
-![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/44d5712dadcfc3009fbd251442aaced8a1925bbf/Screenshot%202026-11-14%20220000.pn)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/44d5712dadcfc3009fbd251442aaced8a1925bbf/Screenshot%202026-11-14%20220000.png)
 
 I then went into "group policy management" and configured the password policy of my domain
 
