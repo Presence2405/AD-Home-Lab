@@ -44,3 +44,6 @@ I then added my first user to the "users" OU and created the naming scheme for t
 
 I gave my user his temp password and set it so he must change it on next logon
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/3bd10f06fecfe6ada9017a439d57dae3890f53f0/Screenshot%202026-11-14%20195651.png)
+
+I then confirmed my user was in the correct OU
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/24b77c877fb714116744d85a0341393cc4401b16/Screenshot%202026-11-14%20195824.png)
