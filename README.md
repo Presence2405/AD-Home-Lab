@@ -56,3 +56,6 @@ I then made my first group called "IT Workers"
 
 Added "Tom Brady" to the group
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/2a6c5f15fb8e6926623774de3b564e4e8f59ad40/Screenshot%202026-11-14%20200814.png)
+
+Confirmed Tom was in the group 
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/01cdf7df715bc1376852f51adceb3268319a12f7/Screenshot%202026-11-14%20200826.png)
