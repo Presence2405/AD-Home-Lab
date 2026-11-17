@@ -111,3 +111,13 @@ I then went to the "member of" section and added him to "HR" and confirmed it we
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/7185fdd6e8b41aa89820ed99c4abe6a8d0710a5c/Screenshot%202026-11-14%20205100.png)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/7185fdd6e8b41aa89820ed99c4abe6a8d0710a5c/Screenshot%202026-11-14%20205114.png)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/7185fdd6e8b41aa89820ed99c4abe6a8d0710a5c/Screenshot%202026-11-14%20205208.png)
+
+After this I spun up another VM to join my domain. I went to the VNIC settings of my new VM and configured the DNS to use the static IP I configured prior
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/628dcdfce199317d9124cead0f57ccf5f42d715d/Screenshot%202026-11-14%20211156.png)
+
+I then set up a port rule to allow only my IP to RDP into the VM
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/dc92061c56265ad70395ecfca5c5e2b9e2035dc8/Screenshot%202026-11-14%20212759.png)
+
+I then used Azure Bastion to log into my new VM and join it to my domain
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/981b12a8e6e6d0e750c137a2584dc6ba0a88cc20/Screenshot%202026-11-14%20214943.png)
+
