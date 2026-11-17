@@ -39,3 +39,6 @@ I left the rest of the setting default and finished the install which rebooted m
 
 Within "branch 1" I created 3 more OU's "users" "computers" "groups" to further organize my lab
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/769bf1583f47c19d730a4e3e7db9da45482fea78/Screenshot%202026-11-14%20195402.png)
+
+I then added my first user to the "users" OU
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/6cc7d8e5d24c2ade1f24e9815194124aade4f32c/Screenshot%202026-11-14%20195617.png)
