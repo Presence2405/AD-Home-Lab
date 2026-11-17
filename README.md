@@ -128,3 +128,8 @@ When I tried to connect my new VM to the DC I got an error saying it could not b
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/334c1eb3d7e22f588e18dfad0e0059ccbfa58693/Screenshot%202026-11-14%20215027.png)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/334c1eb3d7e22f588e18dfad0e0059ccbfa58693/Screenshot%202026-11-14%20215059.png)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/334c1eb3d7e22f588e18dfad0e0059ccbfa58693/Screenshot%202026-11-14%20215253.png)
+
+After this I was finally able to join my domain and ping my DC
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/f421f9cc43195d01b4b636af7ab4a4818e26b756/Screenshot%202026-11-14%20215532.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/f421f9cc43195d01b4b636af7ab4a4818e26b756/Screenshot%202026-11-14%20215603.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/f421f9cc43195d01b4b636af7ab4a4818e26b756/Screenshot%202026-11-14%20215848.png)
