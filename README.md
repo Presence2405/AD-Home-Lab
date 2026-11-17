@@ -33,3 +33,6 @@ I created a new forest with the root domain name "lab.local"
 
 Configured my domain controller options making sure to use a strong password
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/980d3dc89e3a252cb223292156d9f94d996ac59d/Screenshot%202026-11-14%20194028.png)
+
+I left the rest of the setting default and finished the install which rebooted my VM. I connected via bastion again and went to active directory users and computers and created a new OU called "branch 1"
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/f56e4db64ca16ef33a10f42e84c6110eaa0c17b7/Screenshot%202026-11-14%20195142.png)
