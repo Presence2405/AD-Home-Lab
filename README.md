@@ -70,7 +70,7 @@ Confirmed both Tom Brady and Tom Smith are in the "IT workers" group
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/b5053b4fbc67b52c83c61710e5b4915b6d9fa873/Screenshot%202026-11-14%20201315.png)
 
 Next I went to one of my existing user accounts and practiced resetting a password/unlocking the account for an existing user
-![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/d08e24123a6dbf6a3f6db9b8e64dd09d7894c958/Screenshot%202026-11-14%20201315.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/878f7edf377bdc18ab03cb10aa45ffec5b8f4b2f/Screenshot%202026-11-14%20201444.png)
 
 I then created a new OU called "branch 2" and filled it with the same OUs in it as branch one "users" "computers" "groups
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/6ae3e439b7a8d572359e2ccadbcf3910398b01a8/Screenshot%202026-11-14%20202205.png)
