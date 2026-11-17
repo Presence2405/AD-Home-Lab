@@ -27,3 +27,6 @@ I then added all the roles and features needed to complete this lab including AD
 After this I rebooted the server as needed for these changes to take effect, used Azure Bastion to RDP in like last time
 I then went to server manager and into AD DS to turn my server into my DC
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/f646701129f6b684f3b5ff79f35b7f1be5aba610/Screenshot%202026-11-14%20193912.png)
+
+I created a new forest with the root domain name "lab.local"
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/f4a90565cea74f0f03dd7fc0d738a953bb16b8bc/Screenshot%202026-11-14%20193949.png)
