@@ -59,3 +59,6 @@ Added "Tom Brady" to the group
 
 Confirmed Tom was in the group 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/01cdf7df715bc1376852f51adceb3268319a12f7/Screenshot%202026-11-14%20200826.png)
+
+I then selected Tom Brady and chose copy to make another user just like him name "Tom smith"
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/f090bd30d85cd40a6f330efb018b0a96c7c7b4bf/Screenshot%202026-11-14%20201216.png)
