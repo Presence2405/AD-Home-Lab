@@ -144,3 +144,10 @@ I then went into "group policy management" and configured the password policy of
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/483e162311485d24dba38755355f1269b703a5c2/Screenshot%202026-11-14%20221000.png)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/483e162311485d24dba38755355f1269b703a5c2/Screenshot%202026-11-14%20221113.png)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/483e162311485d24dba38755355f1269b703a5c2/Screenshot%202026-11-14%20221216.png)
+
+Lastly I delegated the task of resetting passwords and forcing a password change at next login to the "HR" group
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/8800ff787a9e7aaa73e1c7d3b5c73cab7d589107/Screenshot%202026-11-14%20221745.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/8800ff787a9e7aaa73e1c7d3b5c73cab7d589107/Screenshot%202026-11-14%20221757.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/8800ff787a9e7aaa73e1c7d3b5c73cab7d589107/Screenshot%202026-11-14%20221808.png)
+
+After this I completed my lab by deleting my Azure RG with everything in it to confirm I would not miss anything
