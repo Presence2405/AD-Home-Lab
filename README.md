@@ -3,9 +3,12 @@ Used Microsoft Azure to spin up a windows server 2022 VM to turn into a DC. Add 
 Used the optimal setting in Azure to spin up a windows server 2022 VM to turn into my DC.
 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/7d98daab24534d85970f0421d31a1c1274e5f295/Screenshot%202026-11-14%20210328.png)
-After this I setup a local admin account to log into, and disabled RDP for security reasons as I will be using Azure Bastion to connect
+After this I setup a local admin account to log into, and disabled RDP (temp) for security reasons and I will be using Azure Bastion to connect
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/2eaccd4153f764e04e4b37bf3308ae032ce4ac2d/Screenshot%202026-11-14%20210451.png)
 I then configured the virtual network and subnet my VM would run on, as well as the public ip
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/cf27a0792c3897643686369edd9145257a01f439/Screenshot%202026-11-14%20210729.png)
 Configured the VM disk to be an SSD for better performance and made sure to check "delete with VM" (though I will be deleting the entire RG at the end of the lab)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/96313d66c4157b0aa48438537137323c0133c605/Screenshot%202026-11-14%20210751.png)
+That concluded my configuration for the VM so I spung it up
+Once it was up, I went to network settings to now allow RDP connection to only my IP
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/912858153350fe70fe148e456c7fd6fe740b4f4d/Screenshot%202026-11-14%20191201.png)
