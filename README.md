@@ -16,5 +16,5 @@ As this server is going to be my DC and DNS server, I gave it a static IP to avo
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/e389f1241dcdbd339520d4c40cbcecd0375276fe/Screenshot%202026-11-14%20191434.png)
 I then used Azure Bastion and RDP'd into my windows server VM
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/8788be729ce5a227d0ba7bc0c91070df2e644a50/Screenshot%202026-11-16%20204417.png)
-      I got into the windows server VM and it automatically opened server manager
+Upon getting into the windows server VM, server manager was opened automatically 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/6da2f4f58ee58e456eba04d7abafd2678d866a60/Screenshot%202026-11-16%20204731.png)
