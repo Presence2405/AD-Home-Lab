@@ -1,5 +1,5 @@
 # AD-Home-Lab
-In this lab I will use Microsoft Azure to host a windows server 2022 VM and promote it to a DC. I will then add another VM to the domain and configure AD to practice making users, OUs, and configuring group policy
+In this lab I will use Microsoft Azure to host a windows server 2022 VM and promote it to a DC. I will then add another VM to the domain and configure AD to practice making users, OUs, and configuring group policy.
 I started with making the optimal VM for my DC
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/7d98daab24534d85970f0421d31a1c1274e5f295/Screenshot%202026-11-14%20210328.png)
 After this I setup a local admin account to log into, and disabled RDP (temp) for security reasons and I will be using Azure Bastion to connect
