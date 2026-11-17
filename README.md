@@ -14,3 +14,5 @@ Once it was up, I went to network settings to now allow RDP connection to only m
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/912858153350fe70fe148e456c7fd6fe740b4f4d/Screenshot%202026-11-14%20191201.png)
 As this server is going to be my DC and DNS server, I gave it a static IP to avoid it potentially changing and breaking the lab
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/e389f1241dcdbd339520d4c40cbcecd0375276fe/Screenshot%202026-11-14%20191434.png)
+I then used Azure Bastion and RDP'd into my windows server VM
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/8788be729ce5a227d0ba7bc0c91070df2e644a50/Screenshot%202026-11-16%20204417.png)
