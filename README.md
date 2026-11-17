@@ -51,7 +51,7 @@ I then confirmed my user was in the correct OU
 After this I created another user and practiced resetting passwords/unlocking accounts 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/4484c60dbc326f29ce7d7c74c4b4c06ef895d082/Screenshot%202026-11-14%20200427.png)
 
-I then made my first group called "IT Workers"
+I then made my first group called "IT Workers" and set the group type to security group and made it a global group 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/6dda617722b74efa1283d6bf2015068389bbde87/Screenshot%202026-11-14%20200535.png)
 
 Added "Tom Brady" to the group
@@ -74,3 +74,6 @@ Next I went to one of my existing user accounts and practiced resetting a passwo
 
 I then created a new OU called "branch 2" and filled it with the same OUs in it as branch one "users" "computers" "groups
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/6ae3e439b7a8d572359e2ccadbcf3910398b01a8/Screenshot%202026-11-14%20202205.png)
+
+I then used Tom Brady to practice moving a user from one branch to another by moving him from users in branch one to users in branch 2
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/588ba49243197d45395c1e9594589b837e69a86f/Screenshot%202026-11-14%20202505.png)
