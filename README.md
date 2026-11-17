@@ -53,3 +53,6 @@ After this I created another user and practiced resetting passwords/unlocking ac
 
 I then made my first group called "IT Workers"
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/6dda617722b74efa1283d6bf2015068389bbde87/Screenshot%202026-11-14%20200535.png)
+
+Added "Tom Brady" to the group
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/2a6c5f15fb8e6926623774de3b564e4e8f59ad40/Screenshot%202026-11-14%20200814.png)
