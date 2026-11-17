@@ -62,3 +62,6 @@ Confirmed Tom was in the group
 
 I then selected Tom Brady and chose copy to make another user just like him name "Tom smith"
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/f090bd30d85cd40a6f330efb018b0a96c7c7b4bf/Screenshot%202026-11-14%20201216.png)
+
+Selected Tom Smith and confirmed he was a copy of Tom Brady as he was automatically added into the "IT workers" group
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/5649da213777f61d849494b910bf257f5dff634c/Screenshot%202026-11-14%20201237.png)
