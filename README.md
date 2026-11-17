@@ -9,6 +9,8 @@ I then configured the virtual network and subnet my VM would run on, as well as 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/cf27a0792c3897643686369edd9145257a01f439/Screenshot%202026-11-14%20210729.png)
 Configured the VM disk to be an SSD for better performance and made sure to check "delete with VM" (though I will be deleting the entire RG at the end of the lab)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/96313d66c4157b0aa48438537137323c0133c605/Screenshot%202026-11-14%20210751.png)
-That concluded my configuration for the VM so I spung it up
+That concluded my configuration for the VM so I spung it up.
 Once it was up, I went to network settings to now allow RDP connection to only my IP
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/912858153350fe70fe148e456c7fd6fe740b4f4d/Screenshot%202026-11-14%20191201.png)
+As this server is going to be my DC and DNS server, I gave it a static IP to avoid it potentially changing and breaking the lab
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/e389f1241dcdbd339520d4c40cbcecd0375276fe/Screenshot%202026-11-14%20191434.png)
