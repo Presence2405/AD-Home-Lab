@@ -19,5 +19,7 @@ I then used Azure Bastion and RDP'd into my windows server VM
 
 Upon getting into the windows server VM, server manager was opened automatically 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/6da2f4f58ee58e456eba04d7abafd2678d866a60/Screenshot%202026-11-16%20204731.png)
+
 I then added all the roles and features needed to complete this lab including AD domain services, DNS, DHCP, Print server, Group Policy management, and Web server(IIS)
+
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/aa70dd053ff53045e82ba05ee63e8e228779f347/Screenshot%202026-11-14%20192329.png)
