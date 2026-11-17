@@ -68,3 +68,6 @@ Selected Tom Smith and confirmed he was a copy of Tom Brady as he was automatica
 
 Confirmed both Tom Brady and Tom Smith are in the "IT workers" group 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/b5053b4fbc67b52c83c61710e5b4915b6d9fa873/Screenshot%202026-11-14%20201315.png)
+
+Next I went to one of my existing user accounts and practiced resetting a password/unlocking the account for an existing user
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/d08e24123a6dbf6a3f6db9b8e64dd09d7894c958/Screenshot%202026-11-14%20201315.png)
