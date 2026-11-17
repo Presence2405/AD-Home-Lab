@@ -105,3 +105,9 @@ Now that I found "Logan Heck" with advanced view turned on a went to attribute e
 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/685096ab32d86239834508289cdf5ee2e3de3823/Screenshot%202026-11-14%20204803.png)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/685096ab32d86239834508289cdf5ee2e3de3823/Screenshot%202026-11-14%20204921.png)
+
+I then went to the "member of" section and added him to "HR" and confirmed it went through 
+
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/7185fdd6e8b41aa89820ed99c4abe6a8d0710a5c/Screenshot%202026-11-14%20205100.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/7185fdd6e8b41aa89820ed99c4abe6a8d0710a5c/Screenshot%202026-11-14%20205114.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/7185fdd6e8b41aa89820ed99c4abe6a8d0710a5c/Screenshot%202026-11-14%20205208.png)
