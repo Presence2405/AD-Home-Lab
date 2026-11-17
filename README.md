@@ -94,3 +94,14 @@ I then create a new group called "HR" and added user "Logan Heck" to it
 
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/745b76a323be9f5d8ca27d5a8dd73628f1ed2430/Screenshot%202026-11-14%20203918.png)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/745b76a323be9f5d8ca27d5a8dd73628f1ed2430/Screenshot%202026-11-14%20204147.png)
+
+I then turned on "advanced views" to see more options
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/c96e4a2167ab168f1f4cb4143c6f91d5897ac3f0/Screenshot%202026-11-14%20204319.png)
+
+After this I practiced using the "find users, contacts, and groups" feature to find user "Logan Heck"
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/918d929d5dfd400c7dd8e20bdb3cc5bedf01944e/Screenshot%202026-11-14%20204407.png)
+
+Now that I found "Logan Heck" with advanced view turned on a went to attribute editor and added a proxy address for him
+
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/685096ab32d86239834508289cdf5ee2e3de3823/Screenshot%202026-11-14%20204803.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/685096ab32d86239834508289cdf5ee2e3de3823/Screenshot%202026-11-14%20204921.png)
