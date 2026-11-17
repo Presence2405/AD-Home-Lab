@@ -42,3 +42,6 @@ Within "branch 1" I created 3 more OU's "users" "computers" "groups" to further 
 
 I then added my first user to the "users" OU and created the naming scheme for the domain (firstname.lastname@lab.local)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/6cc7d8e5d24c2ade1f24e9815194124aade4f32c/Screenshot%202026-11-14%20195617.png)
+
+I gave my user his temp password and set it so he must change it on next logon
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/3bd10f06fecfe6ada9017a439d57dae3890f53f0/Screenshot%202026-11-14%20195651.png)
