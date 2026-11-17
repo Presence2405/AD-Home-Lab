@@ -133,3 +133,14 @@ After this I was finally able to join my domain and ping my DC
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/f421f9cc43195d01b4b636af7ab4a4818e26b756/Screenshot%202026-11-14%20215532.png)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/f421f9cc43195d01b4b636af7ab4a4818e26b756/Screenshot%202026-11-14%20215603.png)
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/f421f9cc43195d01b4b636af7ab4a4818e26b756/Screenshot%202026-11-14%20215848.png)
+
+Now that I joined this VM to the DC I went back to my DC VM and moved the new computer from the default "computer" group to the "computer" group in branch one
+
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/44d5712dadcfc3009fbd251442aaced8a1925bbf/Screenshot%202026-11-14%20215914.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/44d5712dadcfc3009fbd251442aaced8a1925bbf/Screenshot%202026-11-14%20220000.pn)
+
+I then went into "group policy management" and configured the password policy of my domain
+
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/483e162311485d24dba38755355f1269b703a5c2/Screenshot%202026-11-14%20221000.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/483e162311485d24dba38755355f1269b703a5c2/Screenshot%202026-11-14%20221113.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/483e162311485d24dba38755355f1269b703a5c2/Screenshot%202026-11-14%20221216.png)
