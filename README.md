@@ -77,3 +77,10 @@ I then created a new OU called "branch 2" and filled it with the same OUs in it 
 
 I then used Tom Brady to practice moving a user from one branch to another by moving him from users in branch one to users in branch 2
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/588ba49243197d45395c1e9594589b837e69a86f/Screenshot%202026-11-14%20202505.png)
+
+Confirmed that Tom Brady was now in the "users" OU in branch 2
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/b0e38bee17311fb0986e109b7b4b54c8d6c5d7d4/Screenshot%202026-11-14%20202524.png)
+
+Next I gave Tom Smith a description and confirmed it went through
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/7f9b6c05a61f288f1ef5ef5fbc88fd401cccc639/Screenshot%202026-11-14%20202755.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/7f9b6c05a61f288f1ef5ef5fbc88fd401cccc639/Screenshot%202026-11-14%20202806.png)
