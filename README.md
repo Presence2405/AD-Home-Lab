@@ -121,3 +121,10 @@ I then set up a port rule to allow only my IP to RDP into the VM
 I then used Azure Bastion to log into my new VM and join it to my domain
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/981b12a8e6e6d0e750c137a2584dc6ba0a88cc20/Screenshot%202026-11-14%20214943.png)
 
+When I tried to connect my new VM to the DC I got an error saying it could not be contacted. I opened cmd and did ipconfig /all and saw my DNS server was not set to what I had preconfigured it in azure. I then went to the windows search bar and typed in ncpa.cpl to pull up my network settings and manually configured my DNS
+
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/334c1eb3d7e22f588e18dfad0e0059ccbfa58693/Screenshot%202026-11-14%20214958.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/334c1eb3d7e22f588e18dfad0e0059ccbfa58693/Screenshot%202026-11-14%20215419.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/334c1eb3d7e22f588e18dfad0e0059ccbfa58693/Screenshot%202026-11-14%20215027.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/334c1eb3d7e22f588e18dfad0e0059ccbfa58693/Screenshot%202026-11-14%20215059.png)
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/334c1eb3d7e22f588e18dfad0e0059ccbfa58693/Screenshot%202026-11-14%20215253.png)
