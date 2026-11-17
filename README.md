@@ -30,3 +30,6 @@ I then went to server manager and into AD DS to turn my server into my DC
 
 I created a new forest with the root domain name "lab.local"
 ![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/f4a90565cea74f0f03dd7fc0d738a953bb16b8bc/Screenshot%202026-11-14%20193949.png)
+
+Configured my domain controller options making sure to use a strong password
+![image alt](https://github.com/Presence2405/AD-Home-Lab/blob/980d3dc89e3a252cb223292156d9f94d996ac59d/Screenshot%202026-11-14%20194028.png)
